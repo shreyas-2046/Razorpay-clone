@@ -8,6 +8,6 @@ This repository contains a clone of the payment gateway platform Razorpay, built
 - HTML
 - CSS (Tailwind CSS)
 
-## Getting Started
+
 
 
